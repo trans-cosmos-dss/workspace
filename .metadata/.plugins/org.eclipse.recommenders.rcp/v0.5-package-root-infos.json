@@ -1,0 +1,197 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d23dcfff80f2be730d20d18514eb3a814fb7f860",
+    "jarFileModificationDate": "2019-06-25T18:19:18.840+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "eb2454fc759b0b2442d57f60a7ce4d564e9dd557",
+    "jarFileModificationDate": "2019-06-25T18:19:18.078+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\access-bridge-32.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "680ea1ee594e80c41e228000241e935b036b805e",
+    "jarFileModificationDate": "2019-06-25T18:19:38.903+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d67408a69b9b63238ec668acdb043cb1b0b84290",
+    "jarFileModificationDate": "2019-06-25T18:19:39.464+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ff4b31db303f005e77c8d23d921fa540c75ffd01",
+    "jarFileModificationDate": "2019-06-25T18:19:18.388+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e74f927c8d93d5c9d1ff03184b0667d29f891c35",
+    "jarFileModificationDate": "2019-06-25T18:19:19.931+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "82904177924b2601b749128b0c4ba3668c629692",
+    "jarFileModificationDate": "2019-06-25T18:19:18.391+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7b8484056ad938aee7c95c8fbbc0d37bcc8ef44e",
+    "jarFileModificationDate": "2019-06-25T18:19:49.826+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "90fa2214958f39e6ad4b2fdc410053a269fda1d2",
+    "jarFileModificationDate": "2019-06-25T18:19:18.381+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a41d5a55a106f2332852e5fbff89df0de4a56534",
+    "jarFileModificationDate": "2019-06-25T18:19:18.719+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5c7bf96455bd4bf84360ca5019bf8636d6d04257",
+    "jarFileModificationDate": "2019-06-25T18:19:18.086+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d26443873dc0f5316b5fdde17369dc7394534366",
+    "jarFileModificationDate": "2019-06-25T18:19:18.085+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "935b5c0d4bbb8e8300cb87649278406471b9bcec",
+    "jarFileModificationDate": "2019-06-25T18:19:42.703+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40a67c09f821af3f62d428e4d79980f9df10e407",
+    "jarFileModificationDate": "2019-06-25T18:19:18.375+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "443658612b0ed8e1c2fe0353ee4e9a0f5ade636c",
+    "jarFileModificationDate": "2019-06-25T18:19:18.378+08:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_79\\jre\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  }
+]
