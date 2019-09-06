@@ -1,13 +1,14 @@
 # JAVA基础学习
 <font size="1">
+
 | | 包名 | 类名 | 说明 | 
 |:---|:---|:---|:---|
 | ★ | Test0819 | Test0819 | 九九乘法表 |  
 | ★ | Test0820 | Test0820 | 闰年判断 |  
-| ★ | Test0821 | Test0821 | 杨辉三角 |  
-| ★ | Test0822 | Test0822 | 杨辉三角 | 
-| ★ | Test0821 | Test0821 | 电商网站 |  
-| ★ | Test0822 | Test0822 | 考勤系统 |  
- 
+| ★ | Test0820 | Test0820 | 001 |  
+| ★ | Test0820 | Test0820 | 002 |  
+| ★ | JAVA | java | Java Standard Edition <br> Java Enterprice Edition <br> Java Micro Edition |  
 ★　…　重点学习
+
 </font>
+
